@@ -17,3 +17,4 @@
    background-image: url(bg.png);
 }
 .login-box .user-box {
+   position: relative;
