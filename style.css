@@ -30,3 +30,4 @@
    outline: none;
 }
 .login-box .user-box label {
+   position: absolute;
