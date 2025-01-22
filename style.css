@@ -41,3 +41,4 @@
    transition: .5s;
 }
 .login-box .user-box input:focus ~ label,
+.login-box .user-box input:valid ~ label 
