@@ -40,3 +40,4 @@
    pointer-events: none;
    transition: .5s;
 }
+.login-box .user-box input:focus ~ label,
