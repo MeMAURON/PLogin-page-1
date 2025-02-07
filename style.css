@@ -47,4 +47,4 @@
    color: #bdb8b8;
    font-size: 13px;
 }
-.login-box .user-box input:
+.login-box .user-box input:focus ~ label,
